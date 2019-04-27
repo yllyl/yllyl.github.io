@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+margin:0;
+padding:0;
+}
+.daohang{
+border:
+width:1920px;
+height:60px;
+background:#1a8fac;
+}
+.daohang ul{
+margin-left:500px;
+list-style:none;
+}
+.daohang ul li,.daohang ul img{
+margin-left:50px;
+float:left;
+}
+.daohang ul li a{
+font-size:18px;
+color:#FFFFFF;
+text-decoration:none;
+line-height:60px;
+}
+.daohang ul li a:hover{
+color:#000000;
+}
+.banner{
+width:1920px;
+height:761px;
+background:url(%E6%9C%AA%E6%A0%87%E9%A2%98-2.jpg);
+}
+.ban p{
+line-height:50px;
+font-size:24px;
+color:#FF0000;
+}
+.ban{
+margin-left:700px;
+width:400px;
+height:150px;
+}
